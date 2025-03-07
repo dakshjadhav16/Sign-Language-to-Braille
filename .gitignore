@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and backups
+backup/
+dataset/
+
+# Testing and training
+Testing/
+Training/
+
+# IDE specific files
+.vscode/
+.idea/
